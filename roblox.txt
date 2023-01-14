@@ -55,3 +55,4 @@
 0.0.0.0 t4.rbxcdn.com
 0.0.0.0 tr.rbxcdn.com
 0.0.0.0 apis.rbxcdn.com
+0.0.0.0 c2hw.rbxcdn.com
