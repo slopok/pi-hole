@@ -1,0 +1,2 @@
+0.0.0.0 oauth.vk.com
+0.0.0.0 st6-20.vk.com
