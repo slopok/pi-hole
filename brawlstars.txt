@@ -1,0 +1,2 @@
+0.0.0.0 game.brawlstarsgame.com
+0.0.0.0 inbox.brawlstars.com
