@@ -17,3 +17,4 @@
 0.0.0.0 youtubekids.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 ytimg.com
+0.0.0.0 gateway.facebook.com
