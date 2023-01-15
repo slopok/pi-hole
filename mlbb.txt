@@ -1,0 +1,3 @@
+0.0.0.0 cycdn.ml.youngjoygame.com
+0.0.0.0 wscdn.ml.youngjoygame.com
+0.0.0.0 ip.ml.youngjoygame.com
