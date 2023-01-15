@@ -2,3 +2,4 @@
 0.0.0.0 wscdn.ml.youngjoygame.com
 0.0.0.0 ip.ml.youngjoygame.com
 0.0.0.0 akmpicture.youngjoygame.com
+0.0.0.0 akmstatic.ml.youngjoygame.com
