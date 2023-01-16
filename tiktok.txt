@@ -1,3 +1,10 @@
+0.0.0.0 pull-cmaf-f16-sg01.ttlivecdn.com
+0.0.0.0 pull-f5-va01.ttlivecdn.com
+0.0.0.0 pull-f5-gcp01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f16-gcp01.ttlivecdn.com
+0.0.0.0 pull-f5-sg01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f16-va01.ttlivecdn.com
+0.0.0.0 push-rtmp-f5-va01.ttlivecdn.com
 0.0.0.0 api.tiktokv.com
 0.0.0.0 api21-h2.tiktokv.com
 0.0.0.0 api-h2.tiktokv.com
