@@ -17,3 +17,10 @@
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 ytimg.com
 0.0.0.0 gateway.facebook.com
+0.0.0.0 rr5---sn-q4fl6nsd.googlevideo.com
+0.0.0.0 rr1---sn-q4flrnsl.googlevideo.com
+0.0.0.0 rr1---sn-xun-p5il.googlevideo.com
+0.0.0.0 rr1---sn-q4fzen7e.googlevideo.com
+0.0.0.0 rr2---sn-xun-p5il.googlevideo.com
+0.0.0.0 rr2---sn-q4fl6nzy.googlevideo.com
+0.0.0.0 rr1---sn-q4flrnes.googlevideo.com
