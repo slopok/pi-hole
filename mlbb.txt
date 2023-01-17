@@ -5,3 +5,6 @@
 0.0.0.0 akmstatic.ml.youngjoygame.com
 0.0.0.0 report.ml.youngjoygame.com
 0.0.0.0 newlogin.ml.youngjoygame.com
+0.0.0.0 newlogin.ml.mlbangbang.com
+0.0.0.0 ml.aihelp.net
+0.0.0.0 61.29.251.39
