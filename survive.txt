@@ -1,0 +1,4 @@
+0.0.0.0 mail.survivorio.com
+0.0.0.0 dataupdate.survivorio.com
+0.0.0.0 prod-game.survivorio.com
+0.0.0.0 img.survivorio.com
