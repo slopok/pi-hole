@@ -1,0 +1,23 @@
+0.0.0.0 nginx-auction17-prd.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 publisher-config.unityads.unity3d.com
+0.0.0.0 ads-sdk-configuration-gcp.unityads.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 auiopt.unityads.unity3d.com
+0.0.0.0 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
+0.0.0.0 events.mz.unity3d.com
+0.0.0.0 sdk-diagnostics.prd.mz.internal.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 unity-ai-dp-prd.cdp.internal.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 operate-sdk-telemetry.unity3d.com
+0.0.0.0 collect.analytics.unity3d.com
+0.0.0.0 pls.prd.mz.internal.unity3d.com
+0.0.0.0 auction-banner.unityads.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 nginx-auction13-prd.unityads.unity3d.com
+0.0.0.0 nginx-auction15-prd.unityads.unity3d.com
+
