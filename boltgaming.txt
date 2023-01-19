@@ -1,0 +1,16 @@
+0.0.0.0 syd.so2.boltgaming.io
+0.0.0.0 jnb.so2.boltgaming.io
+0.0.0.0 del.so2.boltgaming.io
+0.0.0.0 hkg.so2.boltgaming.io
+0.0.0.0 spa.so2.boltgaming.io
+0.0.0.0 atl.so2.boltgaming.io
+0.0.0.0 tok.so2.boltgaming.io
+0.0.0.0 sgp.so2.boltgaming.io
+0.0.0.0 nyc.so2.boltgaming.io
+0.0.0.0 sfo.so2.boltgaming.io
+0.0.0.0 alm.so2.boltgaming.io
+0.0.0.0 wrs.so2.boltgaming.io
+0.0.0.0 prs.so2.boltgaming.io
+0.0.0.0 ams.so2.boltgaming.io
+0.0.0.0 server1.boltgaming.io
+0.0.0.0 fra01.metrics.ms.boltgaming.io
