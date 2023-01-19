@@ -1,0 +1,8 @@
+0.0.0.0 api-support.starpets.gg
+0.0.0.0 auth.starpets.gg
+0.0.0.0 sales.starpets.gg
+0.0.0.0 trades.starpets.gg
+0.0.0.0 items.starpets.gg
+0.0.0.0 notifications.starpets.gg
+0.0.0.0 static.starpets.gg
+0.0.0.0 starpets.gg
