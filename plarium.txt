@@ -6,3 +6,4 @@
 0.0.0.0 billing.x-plarium.com
 0.0.0.0 raidevents.plarium.com
 0.0.0.0 static.x-plarium.com
+0.0.0.0 plarium.com
