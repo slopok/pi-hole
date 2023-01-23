@@ -1,0 +1,8 @@
+0.0.0.0 oauth.plarium.com
+0.0.0.0 cnt.x-plarium.com
+0.0.0.0 raidtournaments.plarium.com
+0.0.0.0 cdn01.x-plarium.com
+0.0.0.0 raid-notifsender.x-plarium.com
+0.0.0.0 billing.x-plarium.com
+0.0.0.0 raidevents.plarium.com
+0.0.0.0 static.x-plarium.com
