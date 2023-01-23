@@ -1,3 +1,4 @@
+0.0.0.0 cdn.freekassa.ru
 0.0.0.0 www.fkwallet.ru
 0.0.0.0 pic.rutube.ru
 0.0.0.0 yast.rutube.ru
